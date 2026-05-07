@@ -11,7 +11,7 @@ pipeline {
             stage('Test') {
                 steps {
                     script {
-                    echo 'Testing'
+                    echo 'Testing the application'
                 }
             }
             }
